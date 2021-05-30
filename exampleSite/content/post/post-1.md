@@ -1,5 +1,5 @@
 ---
-title: "Building an interface between people and nature"
+title: "CD Pipeline Test Commit"
 date: 2020-05-12T12:14:34+06:00
 image: "images/post/post-1.jpg"
 author: "John Doe" # use capitalize
